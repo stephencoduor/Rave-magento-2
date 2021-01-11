@@ -44,7 +44,7 @@ Rave is available in:
 * Enter following command to install module:
 
 ```bash
-composer require stephencoduor/Rave-magento2
+composer require stephencoduor/rave-magento2
 ```
 
 * Wait while dependencies are updated.
