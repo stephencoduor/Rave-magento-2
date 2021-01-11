@@ -1,6 +1,6 @@
 # Magento 2 Rave Payment Gateway
 
- - **Contributors:** Nnamadim Uchenna
+ - **Contributors:** Stephencoduor
 
  - **Tags:** rave, magento 2, payment gateway, bank account, credit card, debit card, nigeria, kenya, ghana, usa
  - **Tested with:** PHP 7.0.2, PHP 7.2
@@ -44,7 +44,7 @@ Rave is available in:
 * Enter following command to install module:
 
 ```bash
-composer require rave/module-payment
+composer require rave/magento2
 ```
 
 * Wait while dependencies are updated.
@@ -74,6 +74,6 @@ Configuration can be done using the Administrator section of your Magento store.
 
 ### Suggestions / Contributions
 
-For issues and feature request, [click here](https://github.com/wisecyril/rave-magento-2/issues).
+For issues and feature request, [click here](https://github.com/stephencoduor/Rave-magento-2/issues).
 To contribute, fork the repo, add your changes and modifications then create a pull request.
 
